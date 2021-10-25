@@ -10,4 +10,4 @@ Here few car images have been given for which we need to provecess the below tas
 
 
 
-Processed images are also saved in the repository for the reference
+Processed images are also saved in the repository for the reference.
